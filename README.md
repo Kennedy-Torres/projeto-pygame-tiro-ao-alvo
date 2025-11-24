@@ -6,5 +6,5 @@
 - Para verificar se a instalação foi correta digite `python -V` no cmd, se o terminal reconhecer o comando ele retornará a versão do python que está no seu dispositivo
 2. Faça a instalação da biblioteca pygames na sua maquina.
 - Digite no cmd: `python -m pip install pygame` e será feito a instalação da biblioteca.
-
-## Explicações em vídeo sobre o código: https://www.youtube.com/watch?v=RX7W3JLPR7o
+---
+- Explicações em vídeo sobre o código: https://www.youtube.com/watch?v=RX7W3JLPR7o
